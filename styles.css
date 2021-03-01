@@ -1,23 +1,29 @@
-.attached-heading {
-    background-color: #00ace1;
-    width: 100%;
-    height: 195px;
-    text-align: center;
-    position: fixed;
-    z-index: 100;
+.blue-part {
+    background-color: #10c6dc;
+    height: 100vh;
+}
+.cv-container-part {
+    height: 100vh;
+}
+.white-part {
+}
+
+.cv-container-part {
 }
 
 .heading-text {
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     font-weight: 500;
     margin: auto;
 }
+
 .name {
     font-size: 50px;
     line-height: 67px;
 }
-span {
+span,
+label {
     font-family: "Comfortaa", cursive;
 }
 .title {
@@ -25,7 +31,8 @@ span {
 }
 .heading-container {
     position: relative;
-    top: 25%;
+    top: 40%;
+    text-align: center;
 }
 .cv-section {
     height: 70vh;
@@ -41,6 +48,38 @@ span {
     position: relative;
     top: 45%;
 }
+.cv {
+    height: inherit;
+}
+
+.creative {
+    color: white;
+    position: absolute;
+    bottom: 5%;
+    left: 20%;
+    font-size: large;
+}
+
+.cv-row {
+    height: 50%;
+}
+
+.cv-row a {
+    cursor: pointer;
+}
+.bottom-bar {
+    position: relative;
+    bottom: 16px;
+    background-color: #10c6dc;
+    height: 40px;
+}
+
+.bottom-bar a {
+    position: relative;
+    top: -160%;
+    right: -90%;
+}
+
 button {
     background-color: #00ace1 !important;
     border-color: #00ace1 !important;
