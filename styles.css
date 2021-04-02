@@ -186,9 +186,6 @@ div.row.cv {
     .heading-container {
         height: 35vh;
     }
-    span#coded.coded > a {
-        font-size: x-small;
-    }
 
     #blue-part {
         height: 20vh;
