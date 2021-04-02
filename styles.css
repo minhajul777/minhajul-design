@@ -11,6 +11,13 @@
     left: 40%;
 }
 
+span#coded.coded > a {
+    position: absolute;
+    font-size: medium;
+    color: white !important;
+    top: 10px;
+    left: 10px;
+}
 div.row.cv {
     margin-bottom: 40px;
 }
@@ -80,11 +87,6 @@ a.email-link {
 }
 .cv-container-part {
     height: 100vh;
-}
-.white-part {
-}
-
-.cv-container-part {
 }
 
 .heading-text {
@@ -183,6 +185,9 @@ div.row.cv {
 @media only screen and (max-width: 720px) {
     .heading-container {
         height: 35vh;
+    }
+    span#coded.coded > a {
+        font-size: x-small;
     }
 
     #blue-part {
