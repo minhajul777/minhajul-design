@@ -81,6 +81,10 @@ a.email-link {
     background-image: url(/images/web_design.png);
 }
 
+.more {
+    background-image: url(/images/more.png);
+}
+
 .blue-part {
     background-color: #10c6dc;
     height: 100vh;
