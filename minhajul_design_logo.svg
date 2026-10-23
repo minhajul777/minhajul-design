@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="250" viewBox="0 0 1120 250" role="img" aria-labelledby="title desc">
+<title id="title">Minhajul Design logo</title>
+<desc id="desc">Modern MD monogram in white and cyan beside the words MINHAJUL DESIGN. Transparent background.</desc>
+<g transform="translate(18 30)">
+  <!-- Angular M, cut as a distinctive continuous mark -->
+  <path fill="#FFFFFF" d="M0 185V0h42l63 74 64-74h42L105 128 42 54v131z"/>
+  <!-- D shares the diagonal of the M and remains recognizable at small sizes -->
+  <path fill="#08CDE6" d="M170 0h79c58 0 98 39 98 92.5S307 185 249 185H170V73l39-43v119h40c35 0 60-22 60-56.5S284 36 249 36h-49l-67 75-26-30z"/>
+</g>
+<g font-family="Arial, Helvetica, sans-serif">
+  <text x="408" y="114" fill="#FFFFFF" font-size="77" font-weight="800" letter-spacing="2">MINHAJUL</text>
+  <text x="411" y="195" fill="#08CDE6" font-size="73" font-weight="400" letter-spacing="5">DESIGN</text>
+</g>
+</svg>
